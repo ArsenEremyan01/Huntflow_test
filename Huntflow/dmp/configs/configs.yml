@@ -1,0 +1,8 @@
+DATA_DIR: data
+ETL_OUTPUT_DIR: output
+
+HUNTFLOW_API:
+  URL-1: "https://dev-100-api.huntflow.dev/account/2/applicants"
+  HEADER:
+    "Content-Type": 'application/json'
+    "Authorization": 'Bearer 71e89e8af02206575b3b4ae80bf35b6386fe3085af3d4085cbc7b43505084482'
