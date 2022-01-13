@@ -1,4 +1,4 @@
 # Huntflow_test
 
-EXPORT - Путь к проекту 
-Запуск - python -m etl
+<!-- EXPORT - Путь к проекту  -->
+<!-- Запуск - python -m etl -->
